@@ -1,2 +1,2 @@
 # Effects-of-Artificial-Light-at-Night-on-Feeding-Performance-and-Chemical-Defense-Phaedon-cochleariae
-Experimental study assessing how artificial light at night alters feeding behavior, growth, survival, and defensive secretion chemistry in larvae and adults of Phaedon cochleariae.
+This repository contains an experimental ecology study investigating the effects of artificial light at night (ALAN) on feeding behavior, performance, survival, and defensive secretion composition in the mustard leaf beetle Phaedon cochleariae. The project combines behavioral measurements, survival analysis, and GC-MS based chemical profiling to assess sublethal impacts of light pollution.
